@@ -1,0 +1,7 @@
+faiss-cpu
+langchain-google-genai
+langchain
+langchain_core
+langchain_text_splitters
+langchain_community
+typing_extensions
